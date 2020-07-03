@@ -4,6 +4,6 @@
 
 ### Libraries used
 ```
-shah
-snsns
+pyrogram
+googletrans
 ```
